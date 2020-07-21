@@ -11,6 +11,10 @@ opencv-contrib-python = "*"
 torch = "*"
 pillow = "*"
 scikit-image = "*"
+tqdm = "*"
+pyopengl = "*"
+torchvision = "*"
+trimesh = "*"
 
 [requires]
 python_version = "3.8"
